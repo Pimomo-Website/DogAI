@@ -1,0 +1,10 @@
+{
+ "name": "Pi netword token",
+  "symbol": "Pi",
+  "description": "Pi Netword in Solana!",
+  "image": "https://github.com/Pimomo-Website/DogAI/blob/main/Pi.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme Token" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
